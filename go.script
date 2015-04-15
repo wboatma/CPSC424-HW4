@@ -1,0 +1,2 @@
+./webClient http://localhost:8080/DATASIZE=10000000 1 1 0
+
